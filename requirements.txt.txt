@@ -1,0 +1,4 @@
+hvplot
+pandas
+numpy
+panel
